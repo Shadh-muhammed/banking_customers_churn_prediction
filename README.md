@@ -76,11 +76,3 @@ Features include:
 - Improves decision making
 
 ---
-
-## 📌 How to Run
-
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-pip install -r requirements.txt
-jupyter notebook
